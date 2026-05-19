@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,mysql" />
   <br>
   <img style="border-radius: 15" src="https://www.itsec.ru/hubfs/ISR/John%20the.png" width=48px height=48px>
-  <img src="https://networkwalks.com/wp-content/uploads/2021/06/Nmap-practice-lab1.png">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt-L823OR9ZpBBxkPPg7lzUwGiH4cD3xBhpw&s">
 </p>
 
 ---
