@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,mysql" />
   <br>
   <img style="border-radius: 15" src="https://www.itsec.ru/hubfs/ISR/John%20the.png" width=48px height=48px>
-  <img src="https://static.vecteezy.com/system/resources/previews/026/763/723/non_2x/nmap-network-mapper-concept-illustration-free-vector.jpg" width=70px height=70px>
+  <img src="https://static.vecteezy.com/system/resources/previews/026/763/723/non_2x/nmap-network-mapper-concept-illustration-free-vector.jpg" width=60px height=60px>
 </p>
 
 ---
