@@ -13,7 +13,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,mysql" />
   <br>
-  <img style="border-radius: 15" src="https://warpnet.nl/wp-content/uploads/2023/12/john-the-ripper.png" width=70px height=70px>
+  <img style="border-radius: 15" src="[https://warpnet.nl/wp-content/uploads/2023/12/john-the-ripper.png](https://www.itsec.ru/hubfs/ISR/John%20the.png)" width=70px height=70px>
 </p>
 
 ---
