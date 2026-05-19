@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,mysql" />
   <br>
   <img style="border-radius: 15" src="https://www.itsec.ru/hubfs/ISR/John%20the.png" width=48px height=48px>
-  <img src="https://www.vaadata.com/wp-content/uploads/2026/03/Nmap.png">
+  <img src="https://www.vaadata.com/wp-content/uploads/2026/03/Nmap.png" width=48px height=48px>
 </p>
 
 ---
