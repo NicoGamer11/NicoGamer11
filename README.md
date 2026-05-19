@@ -13,7 +13,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,mysql" />
   <br>
-  <img style="border-radius: 15" src="https://www.itsec.ru/hubfs/ISR/John%20the.png" width=50px height=50px>
+  <img style="border-radius: 15" src="https://www.itsec.ru/hubfs/ISR/John%20the.png" width=48px height=48px>
 </p>
 
 ---
