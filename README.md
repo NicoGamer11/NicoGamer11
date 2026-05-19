@@ -12,6 +12,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,mysql" />
+  <img src="https://warpnet.nl/wp-content/uploads/2023/12/john-the-ripper.png">
 </p>
 
 ---
