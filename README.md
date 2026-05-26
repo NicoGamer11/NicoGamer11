@@ -3,7 +3,6 @@
 <p align="center">
   Estudante de Desenvolvimento de Sistemas <br>
   💻 Explorando programação e segurança da informação <br>
-  🔐 Interessado em Cybersecurity e Back-end
 </p>
 
 ---
