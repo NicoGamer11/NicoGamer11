@@ -8,7 +8,7 @@
 
 ---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NicoGamer11&show_icons=true&theme=tokyonight)
+![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Olá,%20sou%20o%20[SEU_NOME]&fontSize=70)
 
 ---
 
