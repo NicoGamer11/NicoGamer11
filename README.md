@@ -10,13 +10,16 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,mysql" />
-  <br>
-  <img style="border-radius: 15" src="https://www.itsec.ru/hubfs/ISR/John%20the.png" width=48px height=48px>
-  <img src="https://static.vecteezy.com/system/resources/previews/026/763/723/non_2x/nmap-network-mapper-concept-illustration-free-vector.jpg" width=48px height=48px>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/250px-Wireshark_icon.svg.png" width=48px height=48px>
-  <img src="https://images.icon-icons.com/3053/PNG/512/burp_suite_alt_macos_bigsur_icon_190318.png" width=48px height=48px>
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-%234A4A4A.svg?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/BurpSuite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
 ---
