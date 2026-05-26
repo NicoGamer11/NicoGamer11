@@ -8,10 +8,6 @@
 
 ---
 
-![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Olá,%20sou%20o%20NicoGamer11&fontSize=60)
-
----
-
 ### 📚 Tecnologias & Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -73,7 +69,7 @@
 ## 📫 Contato
 
 <p>
-  <a href="SEU_LINK_GITHUB">GitHub</a>
+  <a href="https://github.com/NicoGamer11">GitHub</a>
 </p>
 
 ---
