@@ -8,6 +8,10 @@
 
 ---
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NicoGamer11&show_icons=true&theme=tokyonight)
+
+---
+
 ## 📚 Atualmente aprendendo
 
 - ☕ Java e Programação Orientada a Objetos
@@ -15,17 +19,7 @@
 - 🗄 Banco de dados e SQL
 - 🔐 Conceitos de Cybersecurity
 - 🐧 Linux e terminal
-- 🌐 Redes de computadores
-
----
-
-## 🛠 O que você vai encontrar aqui
-
-📌 Exercícios e desafios de programação  
-📌 Projetos do curso  
-📌 Estudos sobre segurança da informação  
-📌 Testes, anotações e experimentos  
-📌 Projetos pessoais  
+- 🌐 Redes de computadores 
 
 ---
 
