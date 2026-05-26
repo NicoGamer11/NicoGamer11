@@ -58,7 +58,3 @@
 </p>
 
 ---
-
-<p align="center">
-  💡 “Aprendendo um pouco todos os dias.”
-</p>
