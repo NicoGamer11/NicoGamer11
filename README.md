@@ -1,7 +1,7 @@
-<h1 align="center" background-color=blue>Olá, eu sou o Nico 👋</h1>
+<h1 align="center" background-color=purple>Nicolas Madruga Sousa</h1>
 
 <p align="center">
-  🎓 Estudante de Desenvolvimento de Sistemas <br>
+  Estudante de Desenvolvimento de Sistemas <br>
   💻 Explorando programação e segurança da informação <br>
   🔐 Interessado em Cybersecurity e Back-end
 </p>
