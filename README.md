@@ -8,7 +8,7 @@
 
 ---
 
-![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Olá,%20sou%20o%20[NicolasMadrugaSousa]&fontSize=70)
+![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Olá,%20sou%20o%20[NicoGamer11]&fontSize=70)
 
 ---
 
