@@ -8,7 +8,7 @@
 
 ---
 
-<h1>(https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Olá,%20sou%20o%20NicoGamer11&fontSize=70)</h1>
+![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Olá,%20sou%20o%20NicoGamer11&fontSize=70)
 
 ---
 
