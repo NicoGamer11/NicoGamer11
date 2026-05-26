@@ -22,11 +22,6 @@
 ---
 
 ### 📊 Minhas Estatísticas
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicoGamer11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoGamer11&layout=compact&theme=tokyonight" />
-</p>
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NicoGamer11&theme=tokyonight)
 ---
 
